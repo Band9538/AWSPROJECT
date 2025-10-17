@@ -1,0 +1,26 @@
+[
+  {
+    "user_id":"USER_a02e968ecebc427aac56606074c4fb46",
+    "first_location":"LOC_8d0d8ca772f3403d8ef5671761addccc",
+    "second_location":"LOC_01d8f98135d248ea9f9a1931ef96203c",
+    "first_ts":1760627962.0,
+    "second_ts":1760629691,
+    "delta_secs":1729.0
+  },
+  {
+    "user_id":"USER_a02e968ecebc427aac56606074c4fb46",
+    "first_location":"LOC_01d8f98135d248ea9f9a1931ef96203c",
+    "second_location":"LOC_8d0d8ca772f3403d8ef5671761addccc",
+    "first_ts":1760629691.0,
+    "second_ts":1760630100,
+    "delta_secs":409.0
+  },
+  {
+    "user_id":"USER_c6fa89194c6b468799f074e13f2a8130",
+    "first_location":"LOC_01d8f98135d248ea9f9a1931ef96203c",
+    "second_location":"LOC_9b6656d2b5bb467ab4b2491245ab76b6",
+    "first_ts":1760720947.0,
+    "second_ts":1760725146,
+    "delta_secs":4199.0
+  }
+]

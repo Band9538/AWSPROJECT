@@ -1,0 +1,10 @@
+{
+    "user_count": 2000,
+    "location_count": 5,
+    "curious_user_percentage": 0.03,
+    "cloned_badge_percentage": 0.005,
+    "output_format": "json",
+    "streaming": true
+}
+
+
